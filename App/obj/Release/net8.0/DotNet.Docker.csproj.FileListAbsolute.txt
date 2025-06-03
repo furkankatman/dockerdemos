@@ -1,0 +1,15 @@
+C:\Development\Personal\dockerdemos\App\bin\Release\net8.0\DotNet.Docker.exe
+C:\Development\Personal\dockerdemos\App\bin\Release\net8.0\DotNet.Docker.deps.json
+C:\Development\Personal\dockerdemos\App\bin\Release\net8.0\DotNet.Docker.runtimeconfig.json
+C:\Development\Personal\dockerdemos\App\bin\Release\net8.0\DotNet.Docker.dll
+C:\Development\Personal\dockerdemos\App\bin\Release\net8.0\DotNet.Docker.pdb
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.AssemblyInfo.cs
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.sourcelink.json
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.dll
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\refint\DotNet.Docker.dll
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.pdb
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\DotNet.Docker.genruntimeconfig.cache
+C:\Development\Personal\dockerdemos\App\obj\Release\net8.0\ref\DotNet.Docker.dll
